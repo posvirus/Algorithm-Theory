@@ -1,0 +1,3 @@
+target_sup=6;target_inf=6
+Max_sum=50
+data[6]=50
