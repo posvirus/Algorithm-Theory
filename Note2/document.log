@@ -1,0 +1,2646 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.19)  9 OCT 2022 22:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**document.tex
+(./document.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (./bbe.cls
+Document Class: bbe 2020/04/20
+(c:/texlive/2022/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen147
+))
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks19
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks20
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks28
+)
+(c:/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count271
+\calc@Bcount=\count272
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count273
+\calc@Cskip=\skip57
+)
+(c:/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count274
+\l_MT_multwidth_dim=\dimen158
+\origjot=\skip58
+\l_MT_shortvdotswithinadjustabove_dim=\dimen159
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen160
+\l_MT_above_intertext_sep=\dimen161
+\l_MT_below_intertext_sep=\dimen162
+\l_MT_above_shortintertext_sep=\dimen163
+\l_MT_below_shortintertext_sep=\dimen164
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen165
+)
+(c:/texlive/2022/texmf-dist/tex/latex/arev/arev.sty
+Package: arev 2005/06/14 0.1 Arev Sans package
+
+(c:/texlive/2022/texmf-dist/tex/latex/arev/arevtext.sty
+Package: arevtext 2005/09/01 0.1 Arev Sans Text package
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(c:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(c:/texlive/2022/texmf-dist/tex/latex/arev/arevmath.sty
+Package: arevmath 2006/02/19 0.1 Arev Sans Math package
+
+(c:/texlive/2022/texmf-dist/tex/latex/arev/ams-mdbch.sty
+Package: ams-mdbch 2005/05/08 v1.4 Bold mdbch (Math Design Project) to replace 
+AMS fonts
+\symmathdesignA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
+(Font)                  MDA/mdbch/b/n --> MDA/mdbch/b/n on input line 47.
+LaTeX Font Info:    Overwriting encoding scheme math defaults on input line 52.
+
+LaTeX Info: Redefining \bold on input line 64.
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 82.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 83.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 84.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 85.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 86.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \dabar@ on input line 88.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 110.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 111.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 114.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 115.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 116.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 120.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 123.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 135.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 145.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 148
+.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 149.
+
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 156.
+
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 157.
+
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 159.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \Join on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 168.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 170.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 175.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 178.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 184.
+
+LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 192.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 193.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 195.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 196.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 197.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 198.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 200
+.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 201.
+
+LaTeX Font Info:    Redeclaring math symbol \rightleftharpoons on input line 20
+3.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 20
+4.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 20
+9.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 210
+.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 211.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 212
+.
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 213.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 214.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 217
+.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 219.
+
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 220.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 222.
+
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 223.
+
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 224.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 225.
+LaTeX Font Info:    Redeclaring math symbol \rightsquigarrow on input line 226.
+
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+227.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 228.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 229.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 230.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 231.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 232.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 233.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 234.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 236.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 237.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 239.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 240.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 241.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 243.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 245.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 246.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 247.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 248.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 249.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 250.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 252.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 253.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 254.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 255.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \sqsubset on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \sqsupset on input line 259.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleright on input line 260
+.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleleft on input line 261.
+
+LaTeX Font Info:    Redeclaring math symbol \trianglerighteq on input line 262.
+
+LaTeX Font Info:    Redeclaring math symbol \trianglelefteq on input line 263.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 264.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 265.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 26
+6.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 2
+67.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 26
+8.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 269.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 270.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 271.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 272.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 273.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 274.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 275.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 276.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 277.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 278.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 279.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 280.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 281.
+LaTeX Font Info:    Redeclaring math symbol \angle on input line 282.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 283.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 284.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 285.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 286.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 287.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 288.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 289.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 290.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 292.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 294.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 295.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 296.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 297.
+
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 298.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 299.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 300.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 301.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 302.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 304.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 306.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 307.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 309.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 310.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 311.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 312.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 313.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 315.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/zavm/m/n on input line 71.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/zavm/m/it on input line 72.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/zavm/m/n on input line 73.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/m/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/zavm/b/n on input line 81.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/fvm/m/n on input line 82.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 85.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 89.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 91.
+LaTeX Font Info:    Redeclaring math alphabet \mathbb on input line 105.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/zavm/b/n on input line 112.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/zavm/b/it on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/zavm/b/n on input line 114.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/b/n on input line 115.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/zavm/b/n on input line 118.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/fvm/b/n on input line 119.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 123.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 124.
+\symextraup=\mathgroup7
+\symextraitalic=\mathgroup8
+
+(c:/texlive/2022/texmf-dist/tex/latex/arev/arevsymbols.tex
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 23.
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \emptyset on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \mho on input line 58.
+)
+LaTeX Font Info:    Redeclaring math symbol \varGamma on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \varXi on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \varPi on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \varSigma on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \varPhi on input line 185.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 204.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2019/12/11 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+gines.
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count276
+\l__color_backend_stack_int=\count277
+\g__color_backend_stack_int=\count278
+\g__graphics_track_int=\count279
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count280
+\g__pdf_backend_annotation_int=\count281
+\g__pdf_backend_link_int=\count282
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count283
+\l__fontspec_language_int=\count284
+\l__fontspec_strnum_int=\count285
+\l__fontspec_tmp_int=\count286
+\l__fontspec_tmpa_int=\count287
+\l__fontspec_tmpb_int=\count288
+\l__fontspec_tmpc_int=\count289
+\l__fontspec_em_int=\count290
+\l__fontspec_emdef_int=\count291
+\l__fontspec_strong_int=\count292
+\l__fontspec_strongdef_int=\count293
+\l__fontspec_tmpa_dim=\dimen166
+\l__fontspec_tmpb_dim=\dimen167
+\l__fontspec_tmpc_dim=\dimen168
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+Requested font "[Roboto-Regular.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Roboto-Regular.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;" at 12.00003
+pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=dflt;" at 12.00003p
+t
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+Requested font "[Roboto-BoldItalic.otf]/OT:script=latn;language=dflt;" at 12.00
+003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-BoldItalic.o
+tf
+
+Package fontspec Info: Font family 'Roboto(0)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(1)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[RobotoCondensed-Regular.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Reg
+ular.otf
+Requested font "[RobotoCondensed-Regular.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Reg
+ular.otf
+Requested font "[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;" at
+ 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Reg
+ular.otf
+Requested font "[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;" at 12
+.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Bol
+d.otf
+Requested font "[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;" at 
+12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Ita
+lic.otf
+Requested font "[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;"
+ at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Bol
+dItalic.otf
+
+Package fontspec Info: Font family 'RobotoCondensed(0)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;lan
+guage=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;lan
+guage=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[RobotoCondensed-Bold.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Bol
+d.otf
+Requested font "[RobotoCondensed-Bold.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Bol
+d.otf
+
+Package fontspec Info: Font family 'RobotoCondensed(1)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont = *-Bold,ItalicFont =
+(fontspec)             *-BoldItalic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[RobotoSlab-Regular.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Regular.
+otf
+Requested font "[RobotoSlab-Regular.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Regular.
+otf
+Requested font "[RobotoSlab-Regular.otf]/OT:script=DFLT;language=dflt;" at 12.0
+0003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Regular.
+otf
+Requested font "[RobotoSlab-Bold.otf]/OT:script=DFLT;language=dflt;" at 12.0000
+3pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Bold.otf
+
+Package fontspec Info: Font family 'RobotoSlab(0)' created for font
+(fontspec)             'RobotoSlab' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Regular,BoldFont =
+(fontspec)             *-Bold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;languag
+e=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;languag
+e=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=d
+flt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=d
+flt;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(2)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Medium.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Medium.otf
+Requested font "[Roboto-Medium.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Medium.otf
+Requested font "[Roboto-Medium.otf]/OT:script=latn;language=dflt;" at 12.00003p
+t
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Medium.otf
+Requested font "[Roboto-MediumItalic.otf]/OT:script=latn;language=dflt;" at 12.
+00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-MediumItalic
+.otf
+
+Package fontspec Info: Font family 'Roboto(3)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Medium,ItalicFont = *-MediumItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Medium.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Medium.otf]/OT:script=latn;language=dfl
+t;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-MediumItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-MediumItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Thin.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Thin.otf
+Requested font "[Roboto-Thin.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Thin.otf
+Requested font "[Roboto-Thin.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Thin.otf
+Requested font "[Roboto-ThinItalic.otf]/OT:script=latn;language=dflt;" at 12.00
+003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-ThinItalic.o
+tf
+
+Package fontspec Info: Font family 'Roboto(4)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Thin,ItalicFont = *-ThinItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Thin.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Thin.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-ThinItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-ThinItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Light.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Light.otf
+Requested font "[Roboto-Light.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Light.otf
+Requested font "[Roboto-Light.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Light.otf
+Requested font "[Roboto-LightItalic.otf]/OT:script=latn;language=dflt;" at 12.0
+0003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-LightItalic.
+otf
+
+Package fontspec Info: Font family 'Roboto(5)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Light.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Light.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-LightItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-LightItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Bold.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "[Roboto-Bold.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+
+Package fontspec Info: Font family 'Roboto(6)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Bold,ItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Black.otf]/OT" at 11.99997pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Black.otf
+Requested font "[Roboto-Black.otf]/OT" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Black.otf
+Requested font "[Roboto-Black.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Black.otf
+Requested font "[Roboto-BlackItalic.otf]/OT:script=latn;language=dflt;" at 12.0
+0003pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-BlackItalic.
+otf
+
+Package fontspec Info: Font family 'Roboto(7)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Black,ItalicFont = *-BlackItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Black.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Black.otf]/OT:script=latn;language=dflt
+;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BlackItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BlackItalic.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(8)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(9)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Monospaced,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(10)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;
++tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dfl
+t;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+
+)
+(c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+(c:/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box54
+\extrarowheight=\dimen170
+\NC@list=\toks31
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box55
+)
+\everycr=\toks32
+\minrowclearance=\skip61
+)
+\rownum=\count294
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count295
+\float@exts=\toks33
+\float@box=\box56
+\@float@everytoks=\toks34
+\@floatcapt=\box57
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen173
+\pgfutil@tempdimb=\dimen174
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box58
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen175
+\pgf@y=\dimen176
+\pgf@xa=\dimen177
+\pgf@ya=\dimen178
+\pgf@xb=\dimen179
+\pgf@yb=\dimen180
+\pgf@xc=\dimen181
+\pgf@yc=\dimen182
+\pgf@xd=\dimen183
+\pgf@yd=\dimen184
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count296
+\c@pgf@countb=\count297
+\c@pgf@countc=\count298
+\c@pgf@countd=\count299
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count300
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count301
+)))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count302
+\pgfsyssoftpath@bigbuffer@items=\count303
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen185
+\pgfmath@count=\count304
+\pgfmath@box=\box59
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count305
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen186
+\pgf@picmaxx=\dimen187
+\pgf@picminy=\dimen188
+\pgf@picmaxy=\dimen189
+\pgf@pathminx=\dimen190
+\pgf@pathmaxx=\dimen191
+\pgf@pathminy=\dimen192
+\pgf@pathmaxy=\dimen193
+\pgf@xx=\dimen194
+\pgf@xy=\dimen195
+\pgf@yx=\dimen196
+\pgf@yy=\dimen197
+\pgf@zx=\dimen198
+\pgf@zy=\dimen199
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen256
+\pgf@path@lasty=\dimen257
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen258
+\pgf@shorten@start@additional=\dimen259
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count306
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen260
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen261
+\pgf@pt@y=\dimen262
+\pgf@pt@temp=\dimen263
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen264
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen265
+\pgf@sys@shading@range@num=\count307
+\pgf@shadingcount=\count308
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box63
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box64
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen266
+\pgf@nodesepend=\dimen267
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen268
+\pgffor@skip=\dimen269
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen270
+)
+\tikz@lastx=\dimen271
+\tikz@lasty=\dimen272
+\tikz@lastxsaved=\dimen273
+\tikz@lastysaved=\dimen274
+\tikz@lastmovetox=\dimen275
+\tikz@lastmovetoy=\dimen276
+\tikzleveldistance=\dimen277
+\tikzsiblingdistance=\dimen278
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
+)
+\tikz@expandcount=\count317
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryangles.code.tex
+File: tikzlibraryangles.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
+e.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen279
+\pgfarrowlength=\dimen280
+\pgfarrowwidth=\dimen281
+\pgfarrowlinewidth=\dimen282
+) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks47
+\verbatim@line=\toks48
+\verbatim@in@stream=\read3
+)
+(c:/texlive/2022/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/2022/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count318
+)
+\tcb@titlebox=\box69
+\tcb@upperbox=\box70
+\tcb@lowerbox=\box71
+\tcb@phantombox=\box72
+\c@tcbbreakpart=\count319
+\c@tcblayer=\count320
+\c@tcolorbox@number=\count321
+\tcb@temp=\box73
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+
+(c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '5.0.2'
+\c@tcbrastercolumn=\count322
+\c@tcbrasterrow=\count323
+\c@tcbrasternum=\count324
+\c@tcbraster=\count325
+) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+\tcb@waterbox=\box77
+(c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+)) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(c:/texlive/2022/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
+)
+Package pdfcol Info: pdfTeX's color stacks are not available.
+\tcb@testbox=\box78
+\tcb@totalupperbox=\box79
+\tcb@totallowerbox=\box80
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '5.0.2'
+) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.0.2'
+) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '5.0.2'
+\tcbfitdim=\dimen283
+\tcb@lowerfitdim=\dimen284
+\tcb@upperfitdim=\dimen285
+\tcb@cur@hbadness=\count326
+) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
+))
+\c@tcb@cnt@activity=\count327
+\c@tcb@cnt@definition=\count328
+\c@tcb@cnt@theorem=\count329
+\c@tcb@cnt@lemma=\count330
+\c@tcb@cnt@example=\count331
+\c@tcb@cnt@exercise=\count332
+\c@tcb@cnt@generality=\count333
+\c@tcb@cnt@property=\count334
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen286
+\Hy@linkcounter=\count335
+\Hy@pagecounter=\count336
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count337
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count338
+
+(c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen287
+Requested font "pzdr" at 0.00002pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
+
+(c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count339
+\Field@Width=\dimen288
+\Fld@charsize=\dimen289
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count340
+\c@Item=\count341
+\c@Hfootnote=\count342
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2022-02-21 v7.00n Hyperref driver for XeTeX
+
+(c:/texlive/2022/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box81
+\c@Hy@AnnotLevel=\count343
+\HyField@AnnotCount=\count344
+\Fld@listcount=\count345
+\c@bookmark@seq@number=\count346
+
+(c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip62
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 381.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 381.
+
+(c:/texlive/2022/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(c:/texlive/2022/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
+\BKM@id=\count347
+))
+(c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen290
+\enit@toks=\toks49
+\enit@inbox=\box82
+\enit@count@id=\count348
+\enitdp@description=\count349
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count350
+\mult@box=\box83
+\multicol@leftmargin=\dimen291
+\c@unbalance=\count351
+\c@collectmore=\count352
+\doublecol@number=\count353
+\multicoltolerance=\count354
+\multicolpretolerance=\count355
+\full@width=\dimen292
+\page@free=\dimen293
+\premulticols=\dimen294
+\postmulticols=\dimen295
+\multicolsep=\skip64
+\multicolbaselineskip=\skip65
+\partial@page=\box84
+\last@line=\box85
+\maxbalancingoverflow=\dimen296
+\mult@rightbox=\box86
+\mult@grightbox=\box87
+\mult@firstbox=\box88
+\mult@gfirstbox=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\c@minrows=\count356
+\c@columnbadness=\count357
+\c@finalcolumnbadness=\count358
+\last@try=\dimen297
+\multicolovershoot=\dimen298
+\multicolundershoot=\dimen299
+\mult@nat@firstbox=\box126
+\colbreak@box=\box127
+\mc@col@check@num=\count359
+)
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+Requested font "pzdr" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)
+Requested font "psyr" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tasks/tasks.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen300
+\l__xtemplate_tmp_int=\count360
+\l__xtemplate_tmp_muskip=\muskip18
+\l__xtemplate_tmp_skip=\skip66
+)
+Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
+\g__tasks_total_items_int=\count361
+\l__tasks_columns_int=\count362
+\g__tasks_rows_int=\count363
+\g__tasks_current_col_num_int=\count364
+\g__tasks_current_row_num_int=\count365
+\l__tasks_item_columns_int=\count366
+\g__tasks_env_int=\count367
+\l__tasks_start_int=\count368
+\l__tasks_item_indent_dim=\dimen301
+\l__tasks_item_default_indent_dim=\dimen302
+\l__tasks_item_width_dim=\dimen303
+\l__tasks_label_width_dim=\dimen304
+\l__tasks_label_default_width_dim=\dimen305
+\l__tasks_label_offset_dim=\dimen306
+\l__tasks_label_default_offset_dim=\dimen307
+\l__tasks_column_sep_dim=\dimen308
+\l__tasks_correction_dim=\dimen309
+\l__tasks_full_width_dim=\dimen310
+\l__tasks_after_item_skip=\skip67
+\l__tasks_custom_after_item_skip=\skip68
+\l__tasks_before_list_skip=\skip69
+\l__tasks_after_list_skip=\skip70
+\l__tasks_item_coffin=\box128
+\l__tasks_label_coffin=\box129
+\c@task=\count369
+\l__tasks_tmpa_int=\count370
+\l__tasks_tmpb_int=\count371
+\l__tasks_tmpa_coffin=\box130
+\l__tasks_tmpa_box=\box131
+
+Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
+(xtemplate)             line 450.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/tasks/tasks.cfg))
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen311
+\captionmargin=\dimen312
+\caption@leftmargin=\dimen313
+\caption@rightmargin=\dimen314
+\caption@width=\dimen315
+\caption@indent=\dimen316
+\caption@parindent=\dimen317
+\caption@hangindent=\dimen318
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count372
+\c@continuedfloat=\count373
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count374
+\c@subtable=\count375
+)
+(c:/texlive/2022/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+))
+(c:/texlive/2022/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count376
+\c@Blindtext=\count377
+\c@blind@countparstart=\count378
+\blind@countxx=\count379
+\blindtext@numBlindtext=\count380
+\blind@countyy=\count381
+\c@blindlist=\count382
+\c@blindlistlevel=\count383
+\c@blindlist@level=\count384
+\blind@listitem=\count385
+\c@blind@listcount=\count386
+\c@blind@levelcount=\count387
+\blind@mathformula=\count388
+\blind@Mathformula=\count389
+\c@blind@randomcount=\count390
+\c@blind@randommax=\count391
+\c@blind@pangramcount=\count392
+\c@blind@pangrammax=\count393
+)
+(c:/texlive/2022/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/extpfeil/extpfeil.sty
+Package: extpfeil 2009/10/31 v0.4 Extensible Pfeile (PE)
+
+(c:/texlive/2022/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+))
+(c:/texlive/2022/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
+)
+(c:/texlive/2022/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks50
+\c@algorithm=\count394
+)
+(c:/texlive/2022/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count395
+\c@ALG@rem=\count396
+\c@ALG@nested=\count397
+\ALG@tlm=\skip71
+\ALG@thistlm=\skip72
+\c@ALG@Lnr=\count398
+\c@ALG@blocknr=\count399
+\c@ALG@storecount=\count400
+\c@ALG@tmpcounter=\count401
+\ALG@tmplength=\skip73
+) (c:/texlive/2022/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (c:/texlive/2022/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2022/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count402
+\g__chemgreek_tmpa_int=\count403
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count404
+\__mhchem_arrow_extPgfLength_skip=\skip74
+\mhchem@minispace@tmp=\skip75
+\mhchem@minibackspace@tmp=\skip76
+\mhchem@bondwidth=\skip77
+\mhchem@bondheight=\skip78
+\mhchem@smallbondwidth@tmpA=\skip79
+\mhchem@smallbondwidth@tmpB=\skip80
+\mhchem@smallbondwidth=\skip81
+\mhchem@bondtmp@minussidebearingleft=\skip82
+\mhchem@bondtmp@minussidebearingright=\skip83
+\l__mhchem_option_version_int=\count405
+\mhchem@option@minusmathsidebearingleft=\dimen319
+\mhchem@option@minusmathsidebearingright=\dimen320
+\mhchem@option@minustextsidebearingleft=\dimen321
+\mhchem@option@minustextsidebearingright=\dimen322
+)
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/ctex.sty
+Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
+
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+Requested font "cmr10" at 0.00023pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+)
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count406
+\l__ctex_tmp_box=\box132
+\l__ctex_tmp_dim=\dimen323
+\g__ctex_section_depth_int=\count407
+\g__ctex_font_size_int=\count408
+Requested font "cmr10" at 0.00024pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
+
+(c:/texlive/2022/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
+\l__xeCJK_tmp_int=\count409
+\l__xeCJK_tmp_box=\box133
+\l__xeCJK_tmp_dim=\dimen324
+\l__xeCJK_tmp_skip=\skip84
+\g__xeCJK_space_factor_int=\count410
+\l__xeCJK_begin_int=\count411
+\l__xeCJK_end_int=\count412
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip85
+\g__xeCJK_node_int=\count413
+\c__xeCJK_CJK_node_dim=\dimen325
+\c__xeCJK_CJK-space_node_dim=\dimen326
+\c__xeCJK_default_node_dim=\dimen327
+\c__xeCJK_default-space_node_dim=\dimen328
+\c__xeCJK_CJK-widow_node_dim=\dimen329
+\c__xeCJK_normalspace_node_dim=\dimen330
+\l__xeCJK_ccglue_skip=\skip86
+\l__xeCJK_ecglue_skip=\skip87
+\l__xeCJK_punct_kern_skip=\skip88
+\l__xeCJK_last_penalty_int=\count414
+\l__xeCJK_last_bound_dim=\dimen331
+\l__xeCJK_last_kern_dim=\dimen332
+\l__xeCJK_widow_penalty_int=\count415
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2337.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen333
+\l__xeCJK_mixed_punct_width_dim=\dimen334
+\l__xeCJK_middle_punct_width_dim=\dimen335
+\l__xeCJK_fixed_margin_width_dim=\dimen336
+\l__xeCJK_mixed_margin_width_dim=\dimen337
+\l__xeCJK_middle_margin_width_dim=\dimen338
+\l__xeCJK_bound_punct_width_dim=\dimen339
+\l__xeCJK_bound_margin_width_dim=\dimen340
+\l__xeCJK_margin_minimum_dim=\dimen341
+\l__xeCJK_kerning_total_width_dim=\dimen342
+\l__xeCJK_same_align_margin_dim=\dimen343
+\l__xeCJK_different_align_margin_dim=\dimen344
+\l__xeCJK_kerning_margin_width_dim=\dimen345
+\l__xeCJK_kerning_margin_minimum_dim=\dimen346
+\l__xeCJK_bound_dim=\dimen347
+\l__xeCJK_reverse_bound_dim=\dimen348
+\l__xeCJK_margin_dim=\dimen349
+\l__xeCJK_minimum_bound_dim=\dimen350
+\l__xeCJK_kerning_margin_dim=\dimen351
+\g__xeCJK_family_int=\count416
+\l__xeCJK_fam_int=\count417
+\g__xeCJK_fam_allocation_int=\count418
+\l__xeCJK_verb_case_int=\count419
+\l__xeCJK_verb_exspace_skip=\skip89
+
+(c:/texlive/2022/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
+))
+\ccwd=\dimen352
+\l__ctex_ccglue_skip=\skip90
+)
+\l__ctex_ziju_dim=\dimen353
+
+(c:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count420
+
+(c:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTE
+X)
+Requested font "cmr10" at 0.00026pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+Requested font "[lmroman10-regular]:mapping=tex-text;" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf
+
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX
+)
+Requested font "SimSun/OT" at 11.99997pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+Requested font "SimSun/OT" at 12.00003pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+Requested font "KaiTi/OT:script=hani;language=dflt;" at 12.00002pt
+ -> C:/WINDOWS/fonts/simkai.ttf
+Requested font "KaiTi/B/OT:script=hani;language=dflt;" at 12.00002pt
+ -> C:/WINDOWS/fonts/simkai.ttf
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+Requested font "SimHei/OT:script=hani;language=dflt;" at 12.00002pt
+ -> C:/WINDOWS/fonts/simhei.ttf
+Requested font "SimHei/I/OT:script=hani;language=dflt;" at 12.00002pt
+ -> C:/WINDOWS/fonts/simhei.ttf
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+Requested font "SimSun/OT:script=hani;language=dflt;" at 12.00002pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+Requested font "SimSun/BI/OT:script=hani;language=dflt;" at 12.00002pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+Requested font "SimSun/OT:script=hani;language=dflt;" at 12.00003pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 101.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "SimHei/OT:script=hani;language=dflt;" at 12.00003pt
+ -> C:/WINDOWS/fonts/simhei.ttf
+Requested font "KaiTi/OT:script=hani;language=dflt;" at 12.00003pt
+ -> C:/WINDOWS/fonts/simkai.ttf
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+))
+(c:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+) (./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 12.
+LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 1
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+File: mdacmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=759.6886pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 12.
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count421
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Package chemgreek Info: Activating mapping `fontspec' on line 12.
+
+
+Chapter 3.
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 14.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 20.74pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 14.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 20.74pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "Microsoft YaHei/OT" at 20.73997pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+Requested font "Microsoft YaHei/OT" at 20.74004pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+Requested font "Microsoft YaHei Bold/OT:script=hani;language=dflt;" at 20.74002
+pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+Requested font "Microsoft YaHei Bold/I/OT:script=hani;language=dflt;" at 20.740
+02pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+
+Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
+(fontspec)             probably doesn't exist).
+
+Requested font "Microsoft YaHei/OT:script=hani;language=dflt;" at 20.74002pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+Requested font "Microsoft YaHei/BI/OT:script=hani;language=dflt;" at 20.74002pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+Requested font "Microsoft YaHei/I/OT:script=hani;language=dflt;" at 20.74002pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+
+Package fontspec Info: Could not resolve font "Microsoft YaHei/I" (it probably
+(fontspec)             doesn't exist).
+
+Requested font "Microsoft YaHei/OT:script=hani;language=dflt;" at 20.74004pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 14.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "Microsoft YaHei Bold/OT:script=hani;language=dflt;" at 20.74004
+pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+Requested font "Microsoft YaHei Bold/OT:script=hani;language=dflt;" at 20.74004
+pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+Requested font "Microsoft YaHei/BI/OT:script=hani;language=dflt;" at 20.74004pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+Requested font "Microsoft YaHei/BI/OT:script=hani;language=dflt;" at 20.74004pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+
+Package fontspec Info: Font family 'MicrosoftYaHei(0)' created for font
+(fontspec)             'Microsoft YaHei' with options
+(fontspec)             [Script={CJK},BoldFont={* Bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Microsoft YaHei
+(fontspec)             Bold/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Microsoft
+(fontspec)             YaHei/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+Requested font "Microsoft YaHei Bold/OT:script=hani;language=dflt;" at 20.74pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 15.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 14.4pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "Microsoft YaHei Bold/OT:script=hani;language=dflt;" at 14.4pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+Requested font "SimSun/OT:script=hani;language=dflt;" at 12.0pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+Requested font "SimHei/OT:script=hani;language=dflt;" at 12.0pt
+ -> C:/WINDOWS/fonts/simhei.ttf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 21.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Trying to load font information for OT1+zavm on input line 
+30.
+(c:/texlive/2022/texmf-dist/tex/latex/arev/ot1zavm.fd
+File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
+)
+Requested font "zavmr7t" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmr7t" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmr7t" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+LaTeX Font Info:    Trying to load font information for OML+zavm on input line 
+30.
+
+(c:/texlive/2022/texmf-dist/tex/latex/arev/omlzavm.fd
+File: omlzavm.fd 2006/05/30 Fontinst v1.929 font definitions for OML/zavm.
+)
+Requested font "zavmri7m" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmri7m" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmri7m" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+LaTeX Font Info:    Trying to load font information for OMS+zavm on input line 
+30.
+
+(c:/texlive/2022/texmf-dist/tex/latex/arev/omszavm.fd
+File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
+)
+Requested font "zavmr7y" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
+ 30.
+
+(c:/texlive/2022/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 30.
+Requested font "mdbchr7v" at 11.52008pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 8.64006pt on input line 30.
+Requested font "mdbchr7v" at 8.64006pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 30.
+Requested font "mdbchr7v" at 6.72005pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+Requested font "msam10" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Requested font "msbm10" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
+ 30.
+
+(c:/texlive/2022/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 30.
+Requested font "mdbchbma" at 11.52008pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 8.64006pt on input line 30.
+Requested font "mdbchbma" at 8.64006pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 6.72005pt on input line 30.
+Requested font "mdbchbma" at 6.72005pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 30
+.
+
+(c:/texlive/2022/texmf-dist/tex/latex/arev/uzavm.fd
+File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
+)
+Requested font "favmr7y" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmr7y" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmr7y" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmri7m" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "favmri7m" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "favmri7m" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 3
+0.
+
+(c:/texlive/2022/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+Requested font "stmary10" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary10.tfm
+Requested font "stmary9" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary9.tfm
+Requested font "stmary7" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary7.tfm
+Requested font "Microsoft YaHei/OT:script=hani;language=dflt;" at 12.0pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+Requested font "Microsoft YaHei Bold/OT:script=hani;language=dflt;" at 12.0pt
+ -> C:/WINDOWS/fonts/msyhbd.ttc
+
+Overfull \hbox (22.34714pt too wide) in paragraph at lines 54--55
+[]\TU/SimSun(0)/b/n/12 归 并 排 序  |\TU/SimSun(0)/m/n/12 （\TU/Roboto(0)/m/n/12 mer
+ge sort\TU/SimSun(0)/m/n/12 ）|  是 使 用 分 治 算 法 的 一 个 最 为 经 典，|  也 最 为 简 单 的 例 子，
+|  其 问 题 描 述 如[]\TU/Roboto(0)/m/n/12 example 3.1[]\TU/SimSun(0)/m/n/12 所
+ []
+
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 58.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 58.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;ma
+pping=tex-text;" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+[1
+
+
+]
+Overfull \hbox (8.55981pt too wide) in paragraph at lines 73--74
+[]\TU/SimSun(0)/m/n/12 其 次，|  基 于 以 上 的 分 治 算 法 设 计，|  我 们 简 单 考 虑 一 下 这 个 算 法 
+的 输 入：|  一 个 平 凡 的 输 入 为 数 组 $[]\OML/zavm/m/it/12 A\OT1/zavm/m/n/12 [1\OML/zavm
+/m/it/12 :::n\OT1/zavm/m/n/12 ]$[]\TU/SimSun(0)/m/n/12 。|
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 78.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--91
+
+ []
+
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 96.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;ma
+pping=tex-text;" at 12.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+Requested font "KaiTi/OT:script=hani;language=dflt;" at 12.0pt
+ -> C:/WINDOWS/fonts/simkai.ttf
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 99--122
+
+ []
+
+
+Overfull \hbox (2.12477pt too wide) in paragraph at lines 140--157
+[]\TU/SimSun(0)/m/n/12 对 该 问 题，|  我 们 可 采 用 与 归 并 排 序 类 似 的 思 路 设 计 算 法：|  先 将 
+$[]\OML/zavm/m/it/12 A\OT1/zavm/m/n/12 [1\OML/zavm/m/it/12 :::n\OT1/zavm/m/n/12
+ ]$[]\TU/SimSun(0)/m/n/12 分 解 为 两 个 子 数 组 $[]\OML/zavm/m/it/12 A\OT1/zavm/m/n/1
+2 [1\OML/zavm/m/it/12 :::p\OT1/zavm/m/n/12 ]$[]\TU/SimSun(0)/m/n/12 与
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--157
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 163--184
+
+ []
+
+[4] [5]
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 256.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 256.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "zavmr7t" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmr7t" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmr7t" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmri7m" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmri7m" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmri7m" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmr7y" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 256.
+Requested font "mdbchr7v" at 9.60007pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.29605pt on input line 256.
+Requested font "mdbchr7v" at 7.29605pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 256.
+Requested font "mdbchr7v" at 5.76004pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+Requested font "msam10" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msam7" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "msbm7" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 256.
+Requested font "mdbchbma" at 9.60007pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 7.29605pt on input line 256.
+Requested font "mdbchbma" at 7.29605pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 5.76004pt on input line 256.
+Requested font "mdbchbma" at 5.76004pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+Requested font "favmr7y" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmr7y" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmr7y" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmri7m" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "favmri7m" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "favmri7m" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "stmary10" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary10.tfm
+Requested font "stmary8" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary8.tfm
+Requested font "stmary6" at 6.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary6.tfm
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 7.6pt on input line 256.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 7.6pt on input line 256.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "SimSun/OT:script=hani;language=dflt;" at 10.0pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+ [6]
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 332.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 7.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+ [7]
+File: fig1.png Graphic file (type bmp)
+<fig1.png>
+Requested font "Microsoft YaHei/OT:script=hani;language=dflt;" at 10.95pt
+ -> C:/WINDOWS/fonts/msyh.ttc
+Requested font "zavmr7t" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmr7t" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Requested font "zavmri7m" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmri7m" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmr7y" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 389.
+Requested font "mdbchr7v" at 10.51207pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 389.
+Requested font "mdbchr7v" at 7.68005pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7v.tfm
+Requested font "msam10" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msbm10" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 10.51207pt on input line 389.
+Requested font "mdbchbma" at 10.51207pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 389.
+Requested font "mdbchbma" at 7.68005pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchbma.tfm
+Requested font "favmr7y" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmr7y" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+Requested font "favmri7m" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "favmri7m" at 8.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+Requested font "stmary10" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/tfm/public/stmaryrd/stmary10.tfm
+ [8]
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 400.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 10.95pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 400.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
+ing=tex-text;" at 10.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "SimHei/OT:script=hani;language=dflt;" at 10.0pt
+ -> C:/WINDOWS/fonts/simhei.ttf
+ [9]
+Requested font "SimSun/OT:script=hani;language=dflt;" at 9.0pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+Requested font "SimSun/OT:script=hani;language=dflt;" at 7.0pt
+ -> C:/WINDOWS/fonts/simsun.ttc
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 427.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;ma
+pping=tex-text;" at 9.0pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 7.6pt on input line 427.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;ma
+pping=tex-text;" at 7.6pt
+ -> c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 486--507
+
+ []
+
+[11] [12]
+File: fig2.png Graphic file (type bmp)
+<fig2.png>
+ [13] (./document.aux) ) 
+Here is how much of TeX's memory you used:
+ 39172 strings out of 476179
+ 869366 string characters out of 5813072
+ 1222778 words of memory out of 5000000
+ 59162 multiletter control sequences out of 15000+600000
+ 504731 words of font info for 197 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 103i,11n,131p,963b,1331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on document.pdf (13 pages).

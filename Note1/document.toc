@@ -1,0 +1,25 @@
+\contentsline {chapter}{\numberline {1}算法原理简介}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}算法的定义}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}算法的描述}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}算法的分析}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}算法的正确性分析}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}算法的复杂度分析}{3}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}算法的实验分析}{4}{subsection.1.3.3}%
+\contentsline {chapter}{\numberline {2}算法复杂度分析的数学基础}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}复杂度函数的阶}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}同阶函数集合：$\Theta (f(n))$}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}低阶函数集合：$O(f(n))$}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}高阶函数集合：$\Omega (f(n))$}{6}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}严格低阶函数集合：$o(f(n))$}{7}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}严格高阶函数集合：$\omega (f(n))$}{8}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}渐进符号的统一性质}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}复杂度分析的一些数学技巧}{9}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Floor函数与Ceiling函数}{9}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}积分法求解复杂度：一个例子}{10}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}递归算法复杂度分析：以分治算法为例}{11}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}迭代法}{11}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}代入法}{13}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}主定理法}{16}{subsection.2.4.3}%
+\contentsline {subsubsection}{主定理证明：$n$为$b$的幂的情形}{17}{section*.2}%
+\contentsline {subsubsection}{主定理证明：一般情形}{18}{section*.3}%
+\contentsline {subsubsection}{对主定理的理解}{19}{section*.4}%
