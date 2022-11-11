@@ -6,3 +6,6 @@ x=randi([1,999],1,N);%生成范围为[1,999]的均匀分布的随机整型序列
 fileID=fopen('C:\Users\86181\Desktop\Algotithm_Code\Lab2\Quantization\DATA.txt','w');
 fprintf(fileID,'%d\n',x);
 fclose(fileID)%将生成的序列写入文本文件DATA.txt中
+
+
+

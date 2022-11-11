@@ -3,7 +3,10 @@
 #include <algorithm>
 #include <vector>
 #include <math.h>
+#include <chrono>
+#include <iomanip>
 using namespace std;
+using namespace chrono;
 
 int best_quantify_value(int &begin_of_data, int &end_of_data,int length_of_data);
 int min_error(int &begin_of_data, int &end_of_data,int best_value);
@@ -23,11 +26,12 @@ int main()
     infile.close();
     data.pop_back();
     /********数据预处理********/
-    sort(data.begin(),data.end());//对data[0:n-1]进行排序
-    vector<vector<vector<int>>> result_of_quantization;//使用向量存储子问题的解，result_of_quantization[i][j]代表i个量化值，data[0:j-1]内的最优量化结果
     int s;//设定量化值
     cout<<"Please input the number of types of quantization: ";
     cin>>s;
+    auto start=steady_clock::now();//开始计算程序运行时间
+    sort(data.begin(),data.end());//对data[0:n-1]进行排序
+    vector<vector<vector<int>>> result_of_quantization;//使用向量存储子问题的解，result_of_quantization[i][j]代表i个量化值，data[0:j-1]内的最优量化结果
     result_of_quantization.resize(s+1);//为子问题的解分配空间
     for(int i=1; i<=s; i++)
     {
@@ -73,16 +77,29 @@ int main()
             result_of_quantization[value_of_s][value_of_size].push_back(min_value);//将子问题解对应的最小误差值存储于向量末尾
         }
     }
-
+    /********计算程序运行时间********/
+    auto finish=steady_clock::now();//终止计时
+    auto duration=duration_cast<nanoseconds>(finish-start);
+    cout<<"duration="<<double(duration.count())/1E9<<"s"<<endl;
     /********结果输出********/
     ofstream outfile;
     outfile.open("RESULT.txt",ios::out);
-    outfile<<"The number of types of quantization: "<<s<<endl;
+
     for(int i=0; i<(int)data.size(); i++)
     {
-        outfile<<data[i]<<" is quantified to "<<result_of_quantization[s][data.size()][i]<<endl;
+        outfile<<result_of_quantization[s][data.size()][i]<<endl;
     }
-    outfile<<"The min error is "<<result_of_quantization[s][data.size()][data.size()];
+
+    /********更详细的输出******/
+    /*
+        outfile<<"The number of types of quantization: "<<s<<endl;
+        for(int i=0; i<(int)data.size(); i++)
+        {
+            outfile<<data[i]<<" is quantified to "<<result_of_quantization[s][data.size()][i]<<endl;
+        }
+        outfile<<"The min error is "<<result_of_quantization[s][data.size()][data.size()];
+    */
+    cout<<"The min error is "<<result_of_quantization[s][data.size()][data.size()];
     return 0;
 }
 
@@ -117,7 +134,6 @@ int best_quantify_value(int &begin_of_data, int &end_of_data, int length_of_data
         best_value=*ptr;
     }
     return best_value;
-
 }
 
 int min_error(int &begin_of_data, int &end_of_data,int best_value)//用于求解对data[i:j]进行单值量化后的最小误差
@@ -131,5 +147,4 @@ int min_error(int &begin_of_data, int &end_of_data,int best_value)//用于求解对da
     }
     min_e=min_e+(*ptr-best_value)*(*ptr-best_value);
     return min_e;
-
 }
