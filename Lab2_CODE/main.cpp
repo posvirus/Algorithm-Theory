@@ -84,12 +84,10 @@ int main()
     /********结果输出********/
     ofstream outfile;
     outfile.open("RESULT.txt",ios::out);
-
     for(int i=0; i<(int)data.size(); i++)
     {
         outfile<<result_of_quantization[s][data.size()][i]<<endl;
     }
-
     /********更详细的输出******/
     /*
         outfile<<"The number of types of quantization: "<<s<<endl;
